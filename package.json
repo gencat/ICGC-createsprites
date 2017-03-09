@@ -1,0 +1,19 @@
+{
+  "name": "sprites",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@mapbox/maki": "^4.0.0",
+    "@mapbox/spritezero": "^4.0.1",
+    "@mapbox/spritezero-cli": "^2.0.0",
+    "fs-extra": "^2.0.0",
+    "glob": "^7.1.1",
+    "maki": "^2.1.0"
+  }
+}

@@ -9,11 +9,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@mapbox/maki": "^4.0.0",
-    "@mapbox/spritezero": "^4.0.1",
-    "@mapbox/spritezero-cli": "^2.0.0",
-    "fs-extra": "^2.0.0",
-    "glob": "^7.1.1",
-    "maki": "^2.1.0"
+    "@mapbox/maki": "^6.2.0",
+    "@mapbox/spritezero": "^7.0.1",
+    "fs-extra": "^9.0.1",
+    "glob": "^7.1.6"
   }
 }

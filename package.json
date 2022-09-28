@@ -10,7 +10,7 @@
   "license": "ISC",
   "devDependencies": {
     "@mapbox/maki": "^6.2.0",
-    "@mapbox/spritezero": "^7.0.1",
+    "@mapbox/spritezero": "^8.0.2",
     "fs-extra": "^9.0.1",
     "glob": "^7.1.6"
   }
